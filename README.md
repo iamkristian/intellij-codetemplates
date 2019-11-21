@@ -1,4 +1,4 @@
-# intellij-codetemplates
+# Intellij Code Templates
 
 Code templates for Intellij
 
